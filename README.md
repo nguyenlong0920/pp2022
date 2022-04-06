@@ -9,5 +9,5 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Nguyễn Hoàng Long
+* Student Name: Nguyễn Hoàng Long 
 * Student ID: BI11-157
